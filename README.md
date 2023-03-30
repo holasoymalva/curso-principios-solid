@@ -32,14 +32,16 @@
   * ¿Cómo se aplica el DIP en Javascript?
   * Ejemplos de aplicación del DIP en el código Javascript
 
+* Buenas prácticas en la implementación de principios SOLID en proyectos de Javascript
+  * Organización del código
+  * [Patrones de diseño](https://github.com/holasoymalva/curso-patrones-de-disenio)
+  * Pruebas unitarias y de integración
+
 * Implementación de principios SOLID en frameworks y bibliotecas populares de Javascript
   * Angular
   * React
   * Vue.js
   * Node.js
 
-* Buenas prácticas en la implementación de principios SOLID en proyectos de Javascript
-  * Organización del código
-  * Patrones de diseño
-  * Pruebas unitarias y de integración
+
 
