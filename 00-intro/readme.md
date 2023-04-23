@@ -21,3 +21,5 @@ Los principios SOLID son importantes porque nos ayudan a crear software de alta 
 
 Los principios SOLID están fuertemente relacionados con la programación orientada a objetos, ya que se basan en el uso de clases y objetos. Los principios se centran en la organización y estructura de las clases y su relación con otras clases en el sistema. Al aplicar los principios SOLID, los desarrolladores pueden crear sistemas orientados a objetos bien estructurados y escalables.
 
+[ 🏠 Regresar al Menu](https://github.com/holasoymalva/curso-principios-solid)
+
