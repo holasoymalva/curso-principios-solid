@@ -41,3 +41,5 @@ En este ejemplo, hemos creado dos clases diferentes: ValidadorFormulario y Envia
 De esta manera, hemos aplicado el principio de responsabilidad única, ya que cada clase tiene una única responsabilidad y una única razón para cambiar. Si en el futuro necesitamos cambiar la lógica de validación del formulario, solo tendremos que hacer cambios en la clase ValidadorFormulario, sin afectar a la clase EnviarDatosFormulario.
 
 En resumen, al aplicar el principio de responsabilidad única en JavaScript, podemos mejorar la calidad y mantenibilidad de nuestro código, creando clases y objetos que tengan una única responsabilidad clara y evitando clases con múltiples responsabilidades que puedan causar problemas de mantenibilidad en el futuro.
+
+[ 🏠 Regresar al Menu](https://github.com/holasoymalva/curso-principios-solid)
