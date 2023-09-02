@@ -40,4 +40,6 @@ Los principios SOLID son un conjunto de pautas que buscan guiar a los desarrolla
   * [Patrones de diseño](https://github.com/holasoymalva/curso-patrones-de-disenio)
   * Pruebas unitarias y de integración
 
+## Licencia
 
+Este repositorio se distribuye bajo la [Licencia MIT](LICENSE). Si utilizas este material en tu propio curso o capacitación, te agradecemos que cites la fuente y proporciones un enlace a este repositorio.
